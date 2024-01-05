@@ -3,7 +3,7 @@
 
 #define GFX_BL  2
 
-#define USE_UI    //if you want to use the ui export from Squareline, please do not annotate this line.
+#define USE_UI    
 
 #if defined USE_UI
 #include <lvgl.h>
