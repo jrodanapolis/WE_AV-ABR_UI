@@ -1,4 +1,4 @@
-UI files for WE Coffee Co. 7" touchscreen. The UI and touch functionality are working, but wireless connectivity to the GPC is still in the works. The plan is for this to becone the new UI for the machine, allowing an optional screen, but it doesn't talk to the controller yet... coming soon!
+UI files for Elecrow 7" touchscreen. The UI and touch functionality are working, but wireless connectivity to the GPC is still in the works. The plan is for this to becone the new UI for the machine, allowing an optional screen, but it doesn't talk to the controller yet... coming soon!
 
 For use with Elecrow 7" ESP32 HMI Touch Screen:
 1) https://www.elecrow.com/esp32-display-7-inch-hmi-display-rgb-tft-lcd-touch-screen-support-lvgl.html
